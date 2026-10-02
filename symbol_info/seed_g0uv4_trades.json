@@ -1,14 +1,14 @@
 {
-  "symbol": ["MES_T1", "MES_T2", "MES_T3", "PLTR_T1"],
-  "description": ["MES trade slot 1", "MES trade slot 2", "MES trade slot 3", "PLTR stock slot 1"],
-  "currency": ["USD", "USD", "USD", "USD"],
-  "base-currency": ["USD", "USD", "USD", "USD"],
-  "exchange-listed": ["IBKR", "IBKR", "IBKR", "IBKR"],
-  "exchange-traded": ["IBKR", "IBKR", "IBKR", "IBKR"],
-  "minmovement": [1, 1, 1, 1],
-  "pricescale": [100, 100, 100, 100],
-  "pointvalue": [1, 1, 1, 1],
-  "session-regular": ["24x7", "24x7", "24x7", "24x7"],
-  "timezone": ["Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC"],
-  "type": ["index", "index", "index", "index"]
+  "symbol": ["MES_T1", "MES_T2", "MES_T3", "MES_T4", "MES_T5", "MES_T6", "MES_T7", "MES_T8", "PLTR_T1", "PLTR_T2"],
+  "description": ["MES slot 1", "MES slot 2", "MES slot 3", "MES slot 4", "MES slot 5", "MES slot 6", "MES slot 7", "MES slot 8", "PLTR stock slot 1", "PLTR stock slot 2"],
+  "currency": ["USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD"],
+  "base-currency": ["USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD", "USD"],
+  "exchange-listed": ["IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR"],
+  "exchange-traded": ["IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR", "IBKR"],
+  "minmovement": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+  "pricescale": [100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+  "pointvalue": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+  "session-regular": ["24x7", "24x7", "24x7", "24x7", "24x7", "24x7", "24x7", "24x7", "24x7", "24x7"],
+  "timezone": ["Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC", "Etc/UTC"],
+  "type": ["index", "index", "index", "index", "index", "index", "index", "index", "index", "index"]
 }
