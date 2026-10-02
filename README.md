@@ -1,12 +1,6 @@
 # seed_g0uv4_trades
 
-TradingView Pine Seeds feed for IBKR trade pills.
+Imported IBKR 2026 fills for TradingView Pine Seeds.
 
-Source journal: Google Sheet `IBKR Trade Journal`.
-
-Encoding (one row per day, up to 3 trades in T1/T2/T3):
-- open: 1 buy, 2 sell
-- high: quantity
-- low: price
-- close: realized pnl + 100000
-- volume: HHMM in UTC
+Encoding: open=1 buy / 2 sell, high=qty, low=price, close=realized+100000, volume=HHMM UTC.
+Stock and futures only in SYMBOL_T1.. files. Options are in the Google Sheet, not plotted on the stock chart.
