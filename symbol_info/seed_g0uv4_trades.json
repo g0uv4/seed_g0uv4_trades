@@ -1,0 +1,14 @@
+{
+  "symbol": ["MES_T1", "MES_T2", "MES_T3"],
+  "description": ["MES trade slot 1", "MES trade slot 2", "MES trade slot 3"],
+  "currency": ["USD", "USD", "USD"],
+  "base-currency": ["USD", "USD", "USD"],
+  "exchange-listed": ["IBKR", "IBKR", "IBKR"],
+  "exchange-traded": ["IBKR", "IBKR", "IBKR"],
+  "minmovement": [1, 1, 1],
+  "pricescale": [100, 100, 100],
+  "pointvalue": [1, 1, 1],
+  "session-regular": ["24x7", "24x7", "24x7"],
+  "timezone": ["Etc/UTC", "Etc/UTC", "Etc/UTC"],
+  "type": ["index", "index", "index"]
+}
